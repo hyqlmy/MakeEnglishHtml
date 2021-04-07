@@ -154,3 +154,5 @@ json数据的提取
 <source id="mp4" src="new_video.mp4" type="video/mp4">
 </video>
 若无法打开，就在new_video.mp4里查看
+<br>
+为了压缩视频内存，所以视频比较模糊。
