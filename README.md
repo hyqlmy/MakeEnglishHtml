@@ -13,6 +13,10 @@ word: 单词；translate: 翻译；homoionym: 近义词；antonym: 反义词；s
 结构为{word:{"translate":String, "homoionym":List[List[String]], "antonym":List[List[String]], 
 			"sentence":List[String], "phonetic":String, "similarity":List[String], "shiyi":String}}
 ```
+数据文件在json文件夹里<br>
+如何爬取考研单词和相关内容：[https://blog.csdn.net/hua_you_qiang/article/details/115224398](https://blog.csdn.net/hua_you_qiang/article/details/115224398)
+<br>
+
 草图模板
 ![image](./草图.png)
 
