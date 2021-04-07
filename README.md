@@ -1,8 +1,11 @@
 >**备注**
->1. 需要在HBuild中运行，否则js部分代码无法运行
+>1. 需要在HBuilder中运行，否则js部分代码无法运行
 >2. 需要将html.rar解压，否则将无法正常运行
 >3. 这是静态网页，不是动态网页。网页是由python批量生成的。
 
+HBuilder 的下载：官网下载：[标准版](https://download1.dcloud.net.cn/download/HBuilderX.3.1.8.20210406.zip)   [开发版](https://download1.dcloud.net.cn/download/HBuilderX.3.1.8.20210406.full.zip)
+
+我用的是HBuilder的开发版~~
 
 # 构建思路
 
