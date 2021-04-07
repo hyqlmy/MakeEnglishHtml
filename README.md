@@ -14,7 +14,7 @@ word: 单词；translate: 翻译；homoionym: 近义词；antonym: 反义词；s
 			"sentence":List[String], "phonetic":String, "similarity":List[String], "shiyi":String}}
 ```
 草图模板
-![avatar](./草图.png)
+![image](./草图.png)
 
 注意事项：
 1. CSS与JS需要与html分离，不能写入到html文件里。
@@ -143,4 +143,7 @@ json数据的提取
 分析源代码结构
 ```
 ## 最终效果图
-<video src="./new_video.mp4" width="800px" height="600px" controls="controls"></video>
+<video id="video" controls="" preload="none">
+<source id="mp4" src="new_video.mp4" type="video/mp4">
+</video>
+若无法打开，就在new_video.mp4里查看
